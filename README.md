@@ -1,1 +1,7 @@
 # galaxy-zoo
+
+Galaxy classification is a task that has been bothering researchers since the early 1926s. Almost all current systems of galaxy classification are continuations and expansions of the initial scheme proposed by the American astronomer Edwin Hubble in 1926. In Hubble’s scheme, which is based on the optical appearance of galaxy images , galaxies are divided into three general classes: ellipticals, spirals, and irregulars. Hubble subdivided these three classes into finer groups. Due to the increasing interest on galactic matters from researches, the so called "last frontier" has been the focus of machine learning for a while. From automating vehicles to work outside our atmosphere to complex planet classification. 
+
+Tasks like planet/galaxy classification end up being really relevant due to how many there are, as the known space and universe is infinite and constantly expanding. As more and more galaxies are eventually found, the need to have experts look at every single one of them becomes too much of a burden, and that's where automated galaxy classification comes in.
+
+This work will be our take on one of the kaggle challenges that was celebrated 7 years ago: The Galaxy Zoo prediction problem. Our intent with this work will be to try to give a good intuition of what galaxy zoo and galaxy classification are all about, while also presenting a model of our own to solve the challenge.
